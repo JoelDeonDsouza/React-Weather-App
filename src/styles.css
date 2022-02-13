@@ -9,6 +9,7 @@ body {
 }
 
 .app {
+  background-color: #00b4d8;
   background-image: url("./assets/img1.jpeg");
   background-size: cover;
   background-position: bottom;
@@ -16,6 +17,7 @@ body {
 }
 
 .app.warm {
+  background-color: #ffc600;
   background-image: url("./assets/img2.jpeg");
 }
 
