@@ -1,0 +1,17 @@
+* {
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+}
+body {
+  font-family: "monospace";
+}
+.app {
+  background-image: url("./assets/img1.jpeg");
+  background-size: "cover";
+  background-position: "bottom";
+  transition: 0.4 ease-out;
+}
+main {
+  height: 100vh;
+}
